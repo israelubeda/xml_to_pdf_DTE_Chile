@@ -1,0 +1,103 @@
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0"><Documento ID="F26073045T34"><Encabezado><IdDoc><TipoDTE>34</TipoDTE><Folio>26073045</Folio><FchEmis>2024-12-19</FchEmis><FmaPago>1</FmaPago></IdDoc><Emisor><RUTEmisor>97004000-5</RUTEmisor><RznSoc>Banco de Chile</RznSoc><GiroEmis>Banco Comercial</GiroEmis><Acteco>641910</Acteco><DirOrigen>AHUMADA # 251    SANTIAGO</DirOrigen><CmnaOrigen>Santiago Centro</CmnaOrigen><CiudadOrigen>Santiago</CiudadOrigen></Emisor><Receptor><RUTRecep>76745301-9</RUTRecep><RznSocRecep>Novatex SpA</RznSocRecep><GiroRecep>Consultoria informatica y gest de instal</GiroRecep><Contacto/><DirRecep>Americo Vespucio 2568</DirRecep><CmnaRecep>Conchali</CmnaRecep><CiudadRecep>Santiago</CiudadRecep></Receptor><Totales><MntExe>313096</MntExe><MntTotal>313096</MntTotal></Totales></Encabezado><Detalle><NroLinDet>1</NroLinDet><NmbItem>COMISION POR PREPAGO CREDITO DE CONSUMO ]REFERENCIA :</NmbItem><DscItem>COMISION POR PREPAGO CREDITO DE CONSUMO ]REFERENCIA :                            ]CUENTA CORRIENTE    XXXXXXX0000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      .</DscItem><QtyItem>1</QtyItem><PrcItem>313096</PrcItem><MontoItem>313096</MontoItem></Detalle><TED version="1.0">
+<DD>
+<RE>97004000-5</RE>
+<TD>34</TD>
+<F>26073045</F>
+<FE>2024-12-19</FE>
+<RR>76745301-9</RR>
+<RSR>Novatex SpA</RSR>
+<MNT>313096</MNT>
+<IT1>COMISION POR PREPAGO CREDITO DE CONSUMO </IT1>
+<CAF version="1.0">
+<DA>
+<RE>97004000-5</RE>
+<RS>BANCO DE CHILE</RS>
+<TD>34</TD>
+<RNG><D>25000001</D><H>27000000</H></RNG>
+<FA>2024-06-03</FA>
+<RSAPK><M>s78gRTstHQuqbLaA31SFSJOtgExw1dqWIpP6I3kU+SkFuQjl2+4CQuTvwPCYxCMf8RuYZtGiCGKt6ANBV9vyxQ==</M><E>Aw==</E></RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">NUMXy4gRTyLVFEtoOgDUg4Ztogh75UQ1HX5dF6CCVaL6XKgLPeh156qKk0JAC12puiOrR9+uIT4c9JK0PCEx2g==</FRMA>
+</CAF>
+<TSTED>2024-12-20T10:25:07</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">JahvwHnbZImRRu0dhtvy+OHojQWrveXM94Yb4nUkHsEZSaMOfPZnNedSQoGwoP4FuZqWEkxsrxHno8o7BF8BFw==</FRMT>
+</TED>
+<TmstFirma>2024-12-20T10:25:07</TmstFirma></Documento><Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#F26073045T34">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>SgAGneI5TS4DqIUcPqlTgjY4qqw=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+YUH4bMFxzpcIuaoaA3M/8Pw5IgtrNn+3eCaZVjFplPY8SBbf+OFe/WRf7B8RcIZS
+OKXXc1sUr4AptMSctMN/Wdn6nv89TNDRl9LFyg0v7mgG2H0VwsD5SzkwEfUI/r4s
+4D8x6SiSK3C2P92qV20Gk8vYwkL475CVC5/St5IWoY1Zy+7woNM7fZl0EkWtJOLG
+3H3gnbhYTT1YfTa4puDRDMdb4f/F1ORc17y9jvIgVxaxGvFj+DjGBCdY8XFpX/x9
+yydSn/JuKTPjAunip8Pg/CjCCF2W43xTmnvZ+Avi8OUJbp3vOLBeRsrNDdXsv/5L
+jDSVa90jwY67mwt6BbhW5Q==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+rVR84/2F6Dd7Ejdt95sS/uLkenHz2Ha2D15vn8sGKmnN7jPGP4TRPM+1+pJUbjILkpG6aH7le9tv1Xb4cKvYT4DZ19VnG1LFAIbNXvhK050Qt/F3A+VbX7A+OcVIKytSn19YmZeGS9xVrDhmPSzvugVZ2IG1DwZdMbvHNem07bj3D++omd+/icrRNTOTm5OFrRvVgElbZQTdx28Mz4TuWCD0E5CFmWuyN/rIIkUXbJ2s2lDmashcK8M7MEkM05BflDrSBKlCadc9zBC9BgzKCmaWXrlfyMH8P3lV2E+8+HDVAuttmudjAFqHPn/zJzgose+IGis0DODVsy1hdRe4rQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIHvzCCBaegAwIBAgIKETTErgABAAwuuTANBgkqhkiG9w0BAQsFADCBvzELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQDExVFLUNFUlRDSElMRSBDQSBGRVMg
+MDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNoaWxlLmNsMB4XDTI0
+MTEwNzEyNTcwMFoXDTI3MTEwNzEyNTcwMFowgbsxCzAJBgNVBAYTAkNMMSIwIAYD
+VQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFH
+TzEfMB0GA1UEChMWUkFRVUVMIENMQVZFUklBIFJJVkVSQTEKMAgGA1UECwwBKjEf
+MB0GA1UEAxMWUkFRVUVMIENMQVZFUklBIFJJVkVSQTEnMCUGCSqGSIb3DQEJARYY
+UkNMQVZFUklBUkBCQU5DT0NISUxFLkNMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEArVR84/2F6Dd7Ejdt95sS/uLkenHz2Ha2D15vn8sGKmnN7jPGP4TR
+PM+1+pJUbjILkpG6aH7le9tv1Xb4cKvYT4DZ19VnG1LFAIbNXvhK050Qt/F3A+Vb
+X7A+OcVIKytSn19YmZeGS9xVrDhmPSzvugVZ2IG1DwZdMbvHNem07bj3D++omd+/
+icrRNTOTm5OFrRvVgElbZQTdx28Mz4TuWCD0E5CFmWuyN/rIIkUXbJ2s2lDmashc
+K8M7MEkM05BflDrSBKlCadc9zBC9BgzKCmaWXrlfyMH8P3lV2E+8+HDVAuttmudj
+AFqHPn/zJzgose+IGis0DODVsy1hdRe4rQIDAQABo4ICvTCCArkwggFfBgNVHSAE
+ggFWMIIBUjCCAU4GCCsGAQQBw1IFMIIBQDA9BggrBgEFBQcCARYxaHR0cHM6Ly93
+d3cuZS1jZXJ0Y2hpbGUuY2wvcG9saXRpY2FzLXktcHJhY3RpY2FzLzCB/gYIKwYB
+BQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABlACAA
+ZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkA
+dABvACAAaQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEA
+cgAgAGkAbgBpAGMAaQBvACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMA
+ZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4ALgAgAFAAbwBzAHQAZQByAGkAbwByAG0A
+ZQBuAHQAZQAsMB0GA1UdDgQWBBRMGNCJex4kTLqmUFGGHfuQPD0hDjALBgNVHQ8E
+BAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgoxMzU1NzYyNi0zMB8GA1Ud
+IwQYMBaAFHTWIbP0WugtfLtZBmND72m0OpMEMEAGA1UdHwQ5MDcwNaAzoDGGL2h0
+dHA6Ly9jcmwuZWNlcnRjaGlsZS5jbC9FLUNFUlRDSElMRUNBRkVTMDIuY3JsMD0G
+CCsGAQUFBwEBBDEwLzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3BmZXMuZWNlcnRj
+aGlsZS5jbC9vY3NwMDwGCSsGAQQBgjcVBwQvMC0GJSsGAQQBgjcVCIHd0k2X1DqG
+iZ0Gh4jOb4OvzGBFhtLsCIbHyn0CAWQCAQcwIwYDVR0SBBwwGqAYBggrBgEEAcEB
+AqAMFgo5NjkyODE4MC01MA0GCSqGSIb3DQEBCwUAA4ICAQCTHsshcLfPMj+CPtcC
+AhN1jUMyxPcK+xEy7nFCFxlGk6XZiNIN2wvXlTFrIjvczBcA8DEP6xvh//sDRbp8
+XhU+kKaKksT/BKLvKXLKBbyNOCpDT+8WIoeeR6GEr/UO5mOTMKa14RUbSWor1BTN
+HmmAW7u2lUSuJoeNwJqgd/KpHKUfwBW1EvPk9k2RZvg0JD+BK1wQWK55mDNViLJo
+43WTO+l2oFmB90sU5NW7ZNNXkYatLLjFN3hHqNPPOpeXD32buXa+2XsjYO/yhXZY
+ktf5EAKRNPzMusbHw63bJ709rGBQ5MpfnHVXj/IrJPzL6SzbN/O7lkIUQT3sdviS
+jwVNNUlqJcGAzyVbOSmjUBv3/ampwwIK60snwqNZWTA4nqfVuI9dxwW1CRd8TWb6
+JGHNuMHbRPoFWwkpiPelbfv8JHDrre37+n3bjD7Hq/P/SZqica2/ZvgAdsF1qKJo
+D/YQ9ZpR89JGuW/H08ZK8z8wz5JfwIe/68qm1iXDzbgYcL2EaZTQ0vkpFOxyyUlT
+sjWhH+GH0SrK4IgIzu6KZ6P5c33lkhOTwbpC1KingTQmijxp445HnyeBistaakya
+RT4hxtC+oWbFD6fKgESM2cogLKJcuYq2oVCI9D7uGHrXla5GvnR7g0ainSOF5t7I
+kYZC1ACFsD5ZBrWr6i/L4gS7cg==
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>

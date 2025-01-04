@@ -1,0 +1,228 @@
+<DTE xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
+<Documento ID="DTE-33-2339116">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>2339116</Folio>
+<FchEmis>2024-10-03</FchEmis>
+<TipoDespacho>2</TipoDespacho>
+<IndServicio>2</IndServicio>
+<FmaPago>1</FmaPago>
+<BcoPago>MARIA MORILLO</BcoPago>
+<TermPagoGlosa>TC 30 D&#237;as Contacto ::</TermPagoGlosa>
+<FchVenc>2024-11-02</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>80565900-9</RUTEmisor>
+<RznSoc>YOLITO BALART HNOS. LTDA.</RznSoc>
+<GiroEmis>Ferrter&#237;a, materiales de construcci&#243;n</GiroEmis>
+<CorreoEmisor>DOSCIENTOS OCHENTA Y  CUATRO MIL CINCUENTA Y CUATRO PESOS</CorreoEmisor>
+<Acteco>466302</Acteco>
+<DirOrigen>Avenida Las Condes 7090</DirOrigen>
+<CmnaOrigen>LAS CONDES</CmnaOrigen>
+<CiudadOrigen>Santiago</CiudadOrigen>
+<CdgVendedor>26927379-8</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>76248809-4</RUTRecep>
+<CdgIntRecep>76248809-4</CdgIntRecep>
+<RznSocRecep>ABASTECEDORA Y COMERCIALIZADORA PARA LA MINERIA LIMITADA</RznSocRecep>
+<GiroRecep>VENTA AL POR MENOR DE MUEBLES; INCLUYE C</GiroRecep>
+<Contacto>entrega</Contacto>
+<DirRecep>AVDA,RAUL LABBE 12.613 OF 336</DirRecep>
+<CmnaRecep>LO BARNECHEA</CmnaRecep>
+<CiudadRecep>.</CiudadRecep>
+<DirPostal>lote industrial los libertadoores calle lord cochrane sitio </DirPostal>
+<CmnaPostal>038_05285083</CmnaPostal>
+<CiudadPostal>55</CiudadPostal>
+</Receptor>
+<Transporte>
+<DirDest>.</DirDest>
+<CmnaDest>COLINA</CmnaDest>
+<CiudadDest>COLINA</CiudadDest>
+</Transporte>
+<Totales>
+<MntNeto>238701</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19</TasaIVA>
+<IVA>45353</IVA>
+<MntTotal>284054</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>1</TpoCodigo>
+<VlrCodigo>02 10007338</VlrCodigo>
+</CdgItem>
+<NmbItem>TORNILLO PARA MADERA CRS</NmbItem>
+<DscItem>GENERICO 6X1.5/8 ZINCADO.</DscItem>
+<QtyItem>2000.0</QtyItem>
+<PrcItem>13.16</PrcItem>
+<MontoItem>26318</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>2</NroLinDet>
+<CdgItem>
+<TpoCodigo>1</TpoCodigo>
+<VlrCodigo>02 10004280</VlrCodigo>
+</CdgItem>
+<NmbItem>MADERA PINO SECO CEPILLADO</NmbItem>
+<DscItem>GENERICO 1pX 6pX3.20 S/T</DscItem>
+<QtyItem>3.0</QtyItem>
+<PrcItem>3184.34</PrcItem>
+<MontoItem>9553</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>3</NroLinDet>
+<CdgItem>
+<TpoCodigo>1</TpoCodigo>
+<VlrCodigo>02 10004280</VlrCodigo>
+</CdgItem>
+<NmbItem>MADERA PINO SECO CEPILLADO</NmbItem>
+<DscItem>GENERICO 1pX10pX3.20 S/T</DscItem>
+<QtyItem>3.0</QtyItem>
+<PrcItem>5620.61</PrcItem>
+<MontoItem>16862</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>4</NroLinDet>
+<CdgItem>
+<TpoCodigo>1</TpoCodigo>
+<VlrCodigo>02 10006984</VlrCodigo>
+</CdgItem>
+<NmbItem>MADERA TERCIADO RANURADO</NmbItem>
+<DscItem>GENERICO COLONIAL 2440X1220X 9MM ESTANDAR</DscItem>
+<QtyItem>10.0</QtyItem>
+<PrcItem>16453.38</PrcItem>
+<MontoItem>164534</MontoItem>
+</Detalle>
+<Detalle>
+<NroLinDet>5</NroLinDet>
+<CdgItem>
+<TpoCodigo>1</TpoCodigo>
+<VlrCodigo>02 10004270</VlrCodigo>
+</CdgItem>
+<NmbItem>MADERA PINO DIMENSIONADO CONST. C/ANTIHONGOS</NmbItem>
+<DscItem>GENERICO 2pX 3pX3.20 S/T</DscItem>
+<QtyItem>10.0</QtyItem>
+<PrcItem>2143.35</PrcItem>
+<MontoItem>21434</MontoItem>
+</Detalle>
+<SubTotInfo>
+<NroSTI>1</NroSTI>
+<GlosaSTI>.</GlosaSTI>
+</SubTotInfo>
+<Referencia>
+<NroLinRef>1</NroLinRef>
+<TpoDocRef>801</TpoDocRef>
+<FolioRef>OC</FolioRef>
+<FchRef>2024-10-03</FchRef>
+<RazonRef>OC</RazonRef>
+</Referencia>
+<TED version="1.0">
+<DD>
+<RE>80565900-9</RE>
+<TD>33</TD>
+<F>2339116</F>
+<FE>2024-10-03</FE>
+<RR>76248809-4</RR>
+<RSR>ABASTECEDORA Y COMERCIALIZADORA PARA LA </RSR>
+<MNT>284054</MNT>
+<IT1>TORNILLO PARA MADERA CRS</IT1>
+<CAF version="1.0">
+<DA>
+<RE>80565900-9</RE>
+<RS>YOLITO BALART HERMANOS LIMITADA</RS>
+<TD>33</TD>
+<RNG>
+<D>2327791</D>
+<H>2357790</H>
+</RNG>
+<FA>2024-08-30</FA>
+<RSAPK>
+<M>xrlsiUf2R7Xt1sUIh/v8Csj4iSuJGHIk2Gnnb0Qwz1RCmsAbCbSLiCY3KhgtARLlCfUJnotYHg+8YvjaAFxCgQ==</M>
+<E>Aw==</E>
+</RSAPK>
+<IDK>300</IDK>
+</DA>
+<FRMA algoritmo="SHA1withRSA">Q0D/RcOl49niMxYjb3SsIWnbb5c5AysLgW3MJ/Ar+eemCaDTFn/kqmERxSjWXxgoA2SN7IVeCR8gvlwWec+LPQ==</FRMA>
+</CAF>
+<TSTED>2024-10-03T11:34:13</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">tSJFV+Lg3vjZx3B55smfbfi05OzAmrWSgglJdiI1u3yLlVRlgpzsaBHXw0WYhIAFhk9wf2Hu2CscZbGgI2FAyg==</FRMT>
+</TED>
+<TmstFirma>2024-10-03T11:34:13</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#DTE-33-2339116">
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>qZNYekL8z8pNzq7g1A2rZ/l+pec=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+VFEQu8L1PGLGmPOhYET+4gUPVVb28OSYyHiBwSvHKt42xOcVN2CzlW9c5Ly93NH6cYurJhcZb5el
+XmQxaWTeFiTUmvXZkMhhadSKWpWSQdLZj5BlYDOl5zTB9Fu3T/9cQ5tN9YeaQi15MteOlcFg4yNl
+gm6zGumu4AnlRDd7cseiuck35AdoHhp/jeIALln0PsgCSwhUrgEB/+76zEfw0mlgVv/isFh+v+D1
+01Amf2qq/FvOGd2d3LqOkueAWw6bdU1OfoFY87HOBQOR/7TbErr0jul/lw0VCOhVPrqFDc9uzbB2
+ZMByc2ugtVQqPlXW/VuVsv9W0JZ5bwJ9q1qXiw==
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+yiqhdX2PQFOP/y9H8RSbH2k3wjcqA5fOeSh14gIICGz/J7PzbW9Kuujs4J1/w/2YedhXUuPbPmgu
+9BZHqBPo8LAmX/Uxg+RPiPWd2yKvdTZ8myt9ykpp1H+RpAFWgNvFkKXC2KpVWYOGOJCARIwItkVa
+JIOJLsLI3Mk3eFuPifaMtBardK4lxBO89L4+YMA+i5DGTyvEIPfoqCLvPjOV71vVDFbwhTiEL7bS
+lrG7aPty7ixfLpd0j0Lz98+57iTK9b5PfpX2ql5A4aj5yidNT8rzJv+AsSWBwCy71Fv7qpqZ0ugl
+K2hBxDqP/NHr/z7habc588arFCX3EqyokUmXUQ==
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIHyTCCBbGgAwIBAgIKEwXqawABAAD2EzANBgkqhkiG9w0BAQsFADCBvzELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMR4wHAYDVQQD
+ExVFLUNFUlRDSElMRSBDQSBGRVMgMDIxJjAkBgkqhkiG9w0BCQEWF3NjbGllbnRlQGUtY2VydGNo
+aWxlLmNsMB4XDTIyMDQxODEzMjUzM1oXDTI1MDQxNzEzMjUzM1owgcUxCzAJBgNVBAYTAkNMMSIw
+IAYDVQQIExlNRVRST1BPTElUQU5BIERFIFNBTlRJQUdPMREwDwYDVQQHEwhTQU5USUFHTzEgMB4G
+A1UEChMXQkxVRVRFQ0ggQ09OU1VMVElORyBTUEExCjAIBgNVBAsMASoxJTAjBgNVBAMTHEFOVE9O
+SU8gQU1BRE9SIFlPTElUTyBCQUxBUlQxKjAoBgkqhkiG9w0BCQEWG0JPUklTLkhFTlJJUVVFWkBC
+TFVFTElORS5DTDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMoqoXV9j0BTj/8vR/EU
+mx9pN8I3KgOXznkodeICCAhs/yez821vSrro7OCdf8P9mHnYV1Lj2z5oLvQWR6gT6PCwJl/1MYPk
+T4j1ndsir3U2fJsrfcpKadR/kaQBVoDbxZClwtiqVVmDhjiQgESMCLZFWiSDiS7CyNzJN3hbj4n2
+jLQWq3SuJcQTvPS+PmDAPouQxk8rxCD36Kgi7z4zle9b1QxW8IU4hC+20paxu2j7cu4sXy6XdI9C
+8/fPue4kyvW+T36V9qpeQOGo+conTU/K8yb/gLElgcAsu9Rb+6qamdLoJStoQcQ6j/zR6/8+4Wm3
+OfPGqxQl9xKsqJFJl1ECAwEAAaOCAr0wggK5MIIBXwYDVR0gBIIBVjCCAVIwggFOBggrBgEEAcNS
+BTCCAUAwPQYIKwYBBQUHAgEWMWh0dHBzOi8vd3d3LmUtY2VydGNoaWxlLmNsL3BvbGl0aWNhcy15
+LXByYWN0aWNhcy8wgf4GCCsGAQUFBwICMIHxHoHuAEUAbAAgAHIAZQBzAHAAbwBuAGQAZQByACAA
+ZQBzAHQAZQAgAGYAbwByAG0AdQBsAGEAcgBpAG8AIABlAHMAIAB1AG4AIAByAGUAcQB1AGkAcwBp
+AHQAbwAgAGkAbgBkAGkAcwBwAGUAbgBzAGEAYgBsAGUAIABwAGEAcgBhACAAZABhAHIAIABpAG4A
+aQBjAGkAbwAgAGEAbAAgAHAAcgBvAGMAZQBzAG8AIABkAGUAIABjAGUAcgB0AGkAZgBpAGMAYQBj
+AGkA8wBuAC4AIABQAG8AcwB0AGUAcgBpAG8AcgBtAGUAbgB0AGUALDAdBgNVHQ4EFgQUuv4ik7LJ
+IxgEXPjOXEelHK0pUDQwCwYDVR0PBAQDAgTwMCMGA1UdEQQcMBqgGAYIKwYBBAHBAQGgDBYKMDQz
+OTYwNjgtNzAfBgNVHSMEGDAWgBR01iGz9FroLXy7WQZjQ+9ptDqTBDBABgNVHR8EOTA3MDWgM6Ax
+hi9odHRwOi8vY3JsLmVjZXJ0Y2hpbGUuY2wvRS1DRVJUQ0hJTEVDQUZFUzAyLmNybDA9BggrBgEF
+BQcBAQQxMC8wLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwZmVzLmVjZXJ0Y2hpbGUuY2wvb2NzcDA8
+BgkrBgEEAYI3FQcELzAtBiUrBgEEAYI3FQiB3dJNl9Q6homdBoeIzm+Dr8xgRYbS7AiGx8p9AgFk
+AgEHMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQsFAAOC
+AgEAapNpIcnI98OfcZPmTvhQuxC0j9VRLtsUzFM00H2Co8qeQKyIXmCnNlKgBxqGGR7JMAN8FwwK
+s6jVPMJsAEoQ7CMrR0HQgqB/IkviUycOU3TDl6UBqQKRgDB1Vcf9MoluS3vBbWyAN+xGXKBRvWdx
+b5W+usEs/jwyJG/kco6p83CZCxrWMeB1Ca1wh6Blw5yvbSuWJm5OEL+jPJdLczoqUZ+VFmnbfpRy
+plrccuvYTBv+YJFtpRPh7hlRT8cXyg83MK0Wb4Ij0bcE0HOH0ILJRa7fSjs+fhbqlNFIojZHbSUF
+cDSG3m/+a8az4tvyjhzR6gXc2KFrTlR+WbWNeURCW1z0+z0nersz3VHVzZ1HlXDpjOtjsqLxFc6g
+s1lCbP/NqdGsOcpzu1LuAGWYA/Q2eNzXh+qof1GwY9sQGc7gichevyLhEnn8K02XcZ1TbnadmLXn
+BE9mFCgoovAzmnPK7soQaClkKw+JgjxPQvFpi/JYnf9XkldYcGnrF2+4c2mECVQFfJDAFNRx0dsZ
+tyz/mzIfDvARlAN3lVYRAwMuB/5gQQSuaLURsNloe6pbYso7nYyCplFe6ZkSahcKFE3DVfEM6Mee
+xl/Bbkj7+1h/UTHnqb9WiQdU8OTtDXVMXTfXdpgqHj0SQDSNAxebarvT9H/Tsq4k6it69kpRw28N
+rEs=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature>
+</DTE>
