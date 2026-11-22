@@ -118,7 +118,8 @@ Sube los cambios:
 
 ## 📝 Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo libremente, siempre dando el crédito correspondiente. 🧑‍💻
+Este proyecto está bajo la [licencia MIT](LICENSE), a nombre de Israel Ubeda.
+Código interno de registro: [IU-OSS-0003](LICENSE_ID.txt).
 
 ---
 ## ✨ Autor

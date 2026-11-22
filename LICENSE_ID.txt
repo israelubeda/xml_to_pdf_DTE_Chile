@@ -1,0 +1,7 @@
+Código interno de registro: IU-OSS-0003
+Licencia de software (SPDX): MIT
+Proyecto: XML to PDF DTE Chile
+Titular: Israel Ubeda
+
+El código interno identifica el registro local de esta licencia. Las condiciones
+legales aplicables al código de este repositorio están en el archivo LICENSE.
